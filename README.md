@@ -23,4 +23,12 @@ Here are some ideas to get you started:
 <code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
+<br>
+<br>
+
+Contact with me via these platforms!
+
+<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img alt="Öznur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:oznurozen67@gmail.com" target="_blank" rel="nofollow"><img alt="Öznur's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
