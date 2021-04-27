@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 ### Github Activity ✔:
 
