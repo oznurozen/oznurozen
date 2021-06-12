@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img alt="Öznur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a herf=""><img src="https://pngtree.com/freepng/instagram-icon-instagram-logo_3584853.html"></a>
+<a herf=""><img src="https://pixabay.com/tr/illustrations/kabarc%C4%B1klar-instagram-sosyal-a%C4%9F-1985148/"></a>
 
 
 
