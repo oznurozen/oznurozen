@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Contact with me via these platforms!
 
-<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img alt="Öznur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
 
 
 
