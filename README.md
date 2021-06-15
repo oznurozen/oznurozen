@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## Contact with me via these platforms!
 
-<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
-<a href="https://www.instagram.com/oznur_ozennn/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
-<a href="https://twitter.com/oznur_ozenn" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
+<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="125rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
+<a href="https://www.instagram.com/oznur_ozennn/" target="_blank" rel="nofollow"><img height="125rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
+<a href="https://twitter.com/oznur_ozenn" target="_blank" rel="nofollow"><img height="125rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
 
 
 
