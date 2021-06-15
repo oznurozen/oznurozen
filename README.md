@@ -1,4 +1,4 @@
-## Hi, I'm Öznur Özen <a href="https://www.hareketligifler.net/cat-eller-81.htm"><img src="https://www.hareketligifler.net/data/media/81/el-hareketli-resim-0044.gif" border="0" alt="el-hareketli-resim-0044" /></a>
+## Hi, I'm Öznur Özen <a href="https://www.hareketligifler.net/cat-eller-81.htm"><img height="50rem" src="https://www.hareketligifler.net/data/media/81/el-hareketli-resim-0044.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
 **oznurozen/oznurozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
