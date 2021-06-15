@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-## <img alt=".." height="30rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> **Languages and Tools**
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> **Languages and Tools**
 <br>
 
 <code><img alt="HTML5" height="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Contact me
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
 
 <a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
 <a href="https://www.instagram.com/oznur_ozennn/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
