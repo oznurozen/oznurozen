@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)
 
 
 
