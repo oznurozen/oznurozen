@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
   </div>
-  <div>
-  <a align=right href="https://www.hareketligifler.net/cat-bilgisayarlar-56.htm"><img src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0295.gif" border="0" alt="bilgisayar-hareketli-resim-0295" /></a>
+  <div align=right>
+  <a href="https://www.hareketligifler.net/cat-bilgisayarlar-56.htm"><img src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0295.gif" border="0" alt="bilgisayar-hareketli-resim-0295" /></a>
   </div>
 
 
