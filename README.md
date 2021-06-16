@@ -1,4 +1,3 @@
-<div>
 ## Hi, I'm Öznur Özen <a><img height="50rem" src="https://www.hareketligifler.net/data/media/81/el-hareketli-resim-0044.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
-  </div>
  
 
 
