@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/oznur_ozenn" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
 
 <code><img src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
