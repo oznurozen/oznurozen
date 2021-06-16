@@ -1,4 +1,4 @@
-<div>
+<div width=800px>
 ## Hi, I'm Öznur Özen <a><img height="50rem" src="https://www.hareketligifler.net/data/media/81/el-hareketli-resim-0044.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
