@@ -1,7 +1,7 @@
  <div align=right>
   <a href="https://www.hareketligifler.net/cat-bilgisayarlar-56.htm"><img src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0295.gif" border="0" alt="bilgisayar-hareketli-resim-0295" /></a>
   </div>
-<div align="left">
+<div align="left" margin-top="100rem">
 ## Hi, I'm Öznur Özen <a><img height="50rem" src="https://www.hareketligifler.net/data/media/81/el-hareketli-resim-0044.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
