@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/oznur_ozennn/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
 <a href="https://twitter.com/oznur_ozenn" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
 
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
+
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
 
