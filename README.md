@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...![image](https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png)
 
 -->
-## <img alt=".." height="25rem" src="https://www.hareketligifler.net/cat-monitor-ve-ekran-573.htm"><img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" /> **Languages and Tools**
+## <img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" /> **Languages and Tools**
 <br>
 
 <code><img alt="HTML5" height="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
