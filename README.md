@@ -1,4 +1,4 @@
-## Hi, I'm Öznur Özen <a><img height="50rem" src="https://www.hareketligifler.net/cat-monitor-ve-ekran-573.htm"><img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" border="0" alt="el-hareketli-resim-0044" /></a>
+## Hi, I'm Öznur Özen <a><img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
 **oznurozen/oznurozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
