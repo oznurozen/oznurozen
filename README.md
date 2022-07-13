@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
 
-<code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<code align="center"><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact"></code>
 
 
