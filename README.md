@@ -37,11 +37,18 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/11/10/05/05/twitter-2935414_1280.png" /></a>
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
-
+<p center>
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
+<<<<<<< HEAD
 <img width="400rem" height="200rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
  
 
+=======
+<img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
+
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=oznurozen&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
+</p>
+>>>>>>> 14c48816cad23af00dc18c1b8fbe2bbd321150ba
 
 
 
