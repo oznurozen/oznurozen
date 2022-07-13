@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
 <img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
- 
+
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=oznurozen&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
 
 
 
