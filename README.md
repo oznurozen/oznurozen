@@ -1,4 +1,4 @@
-p## Hi, I'm Öznur Özen <a><img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" border="0" alt="el-hareketli-resim-0044" /></a>
+## Hi, I'm Öznur Özen <a><img src="https://www.hareketligifler.net/data/media/573/monitor-ve-ekran-hareketli-resim-0115.gif" border="0" alt="el-hareketli-resim-0044" /></a>
 
 <!--
 **oznurozen/oznurozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,14 +30,24 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
 
-<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
-<a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
-<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
+
+
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
+<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow">
+    <img height="50rem" alt="Öznur's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
+</a>
+<a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow">
+    <img height="50rem" alt="Öznur's Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+</a>
+<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow">
+    <img height="50rem" alt="Öznur's Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />
+</a>
+
+
+
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
-
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
