@@ -32,23 +32,17 @@ Here are some ideas to get you started:
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
 
-<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png" /></a>
-<a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814048_1280.png" /></a>
-<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>
-
+<a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/linkedin-2815918_960_720.jpg" /></a>
+<a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/instagram-2815919_1280.jpg" /></a>
+<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="100rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/10/04/11/45/twitter-2815914_1280.jpg" /></a>
+<p align="center">
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
-<p center>
+
 <code><img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api?username=oznurozen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"></code>
-<<<<<<< HEAD
-<img width="400rem" height="200rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
+<img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
+</p>
  
 
-=======
-<img width="400rem" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oznurozen&layout=compact">
-
- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=oznurozen&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
-</p>
->>>>>>> 14c48816cad23af00dc18c1b8fbe2bbd321150ba
 
 
 
