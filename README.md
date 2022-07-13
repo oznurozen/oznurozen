@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Linkedin" src="https://cdn.pixabay.com/photo/2017/11/10/05/05/linkedin-2935407_1280.png" /></a>
 <a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Instagram" src="https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814048_1280.png" /></a>
-<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Twitter" src="https://cdn.pixabay.com/photo/2017/11/10/05/05/twitter-2935414_1280.png" /></a>
+<a href="https://twitter.com/znrozen" target="_blank" rel="nofollow"><img height="75rem" alt="Öznur's Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" /></a>
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
 <p center>
