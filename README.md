@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <code><img alt="Visual Studio Code" height="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img alt="Java" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" /></code>
 <code><img alt="github" height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></code>
+<code><img alt="github" height="50rem" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-256.png" /></code>
 <br>
 <br>
 
