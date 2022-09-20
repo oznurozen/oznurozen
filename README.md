@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/" target="_blank" rel="nofollow">
     <img height="50rem" alt="Öznur's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
 </a>
-<a href="https://www.instagram.com/oznur_ozenn/" target="_blank" rel="nofollow">
+<a href="https://www.instagram.com/oznurozen_programming/" target="_blank" rel="nofollow">
     <img height="50rem" alt="Öznur's Instagram" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
 <a href="https://twitter.com/znrozen" target="_blank" rel="nofollow">
